@@ -1,0 +1,10 @@
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.exe.config
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.exe
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\DynamoDbDemo.pdb
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\AWSSDK.dll
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.dll
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\CloudPatterns.AWS.pdb
+C:\Projects\CloudPatterns\src\DynamoDbDemo\bin\Debug\AWSSDK.pdb
+C:\Projects\CloudPatterns\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.csprojResolveAssemblyReference.cache
+C:\Projects\CloudPatterns\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.exe
+C:\Projects\CloudPatterns\src\DynamoDbDemo\obj\Debug\DynamoDbDemo.pdb

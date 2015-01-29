@@ -1,0 +1,8 @@
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\bin\Debug\CloudPatterns.AWS.dll.config
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\bin\Debug\CloudPatterns.AWS.dll
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\bin\Debug\CloudPatterns.AWS.pdb
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\bin\Debug\AWSSDK.dll
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\bin\Debug\AWSSDK.pdb
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\obj\Debug\CloudPatterns.AWS.csprojResolveAssemblyReference.cache
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\obj\Debug\CloudPatterns.AWS.dll
+C:\Projects\CloudPatterns\src\CloudPatterns.AWS\obj\Debug\CloudPatterns.AWS.pdb
